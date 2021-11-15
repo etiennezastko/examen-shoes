@@ -1,0 +1,11 @@
+Contenu du dossier « medias_candidat » :
+
+•	« fonts » ;
+•	« images » ; 
+•	« menu » ;
+•	« picto » ;
+
+et les fichiers :
+•	« accueil_shoes.psd » ;
+•	« index.html ».
+
